@@ -1,0 +1,9 @@
+[submodule "lib/js2-mode"]
+	path = lib/js2-mode
+	url = https://github.com/azer/js2-mode.git
+[submodule "lib/js2-refactor"]
+	path = lib/js2-refactor
+	url = https://github.com/magnars/js2-refactor.el.git
+[submodule "lib/coffee-mode"]
+	path = lib/coffee-mode
+	url = https://github.com/defunkt/coffee-mode
